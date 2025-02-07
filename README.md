@@ -1,5 +1,5 @@
 1. To run the code
-2. Firslty extract the dataset from .zip file
+2. Firstly extract the dataset from .zip file
 3. Run the DataPreProcessing.ipynb file and change the path of both the datasets
 4. Then run main.py using command {streamlit run main.py} 
 
